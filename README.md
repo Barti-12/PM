@@ -1,2 +1,2 @@
 # PM
-PM code
+Kod dla pracy magisterskiej
